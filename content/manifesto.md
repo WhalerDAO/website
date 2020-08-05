@@ -58,4 +58,4 @@ We will achieve this by building tools we can't even imagine today, tools that w
 
 We will save the world, or at least try out damned hardest.
 
-Join us.
+[Join us](https://discord.gg/CHxxasF).
