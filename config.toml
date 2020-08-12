@@ -12,7 +12,7 @@ pygmentsUseClasses  = true
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
-publishdisableKinds = ["RSS"]
+disableKinds = ["RSS"]
 
 [author]
   name = "🐋WhalerDAO"
