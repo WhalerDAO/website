@@ -21,7 +21,7 @@ disableKinds = ["RSS"]
   # hrefTargetBlank = true
   # noreferrerLinks = true
   # nofollowLinks = true
-
+  
 [taxonomies]
   tag = "tags"
   # Categories are disabled by default.
@@ -33,8 +33,8 @@ disableKinds = ["RSS"]
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  # description = ""
-  # images = [""]
+  description = "Fighting DeFi whales to save the world"
+  images = ["images/Whalers-on-the-Moon.jpg"]
   themeColor = "#494f5c"
 
   homeSubtitle = "Fighting DeFi whales to save the world"
