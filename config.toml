@@ -12,9 +12,10 @@ pygmentsUseClasses  = true
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
+publishdisableKinds = ["RSS"]
 
 [author]
-  name = "WhalerDAO"
+  name = "🐋WhalerDAO"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -36,7 +37,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "The DeFi political party dedicated to saving the world. We fight crypto-whales."
+  homeSubtitle = "Fighting DeFi whales to save the world"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -51,7 +52,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
   
   # Add custom css
-  # customCSS = ["css/foo.css", "css/bar.css"]
+  customCSS = ["css/mods.css"]
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
@@ -74,7 +75,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "manifesto"
     weight = 10
 
-  #[[menu.main]]
-  #  name = "Ideology"
-  #  url = "ideology/"
-  #  weight = 20
+  [[menu.main]]
+    name = "Posts"
+    url = "post/"
+    weight = 20
