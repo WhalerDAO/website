@@ -65,6 +65,10 @@ disableKinds = ["RSS"]
     url = "https://twitter.com/WhalerDAO"
 
   [[params.social]]
+    name = "discourse"
+    url = "https://forum.whalerdao.org/"
+
+  [[params.social]]
     name = "github"
     url = "https://github.com/WhalerDAO"
 
