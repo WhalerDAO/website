@@ -10,7 +10,7 @@ WhalerTalk is the weekly community call of WhalerDAO, where we discuss anything 
 >
 > Location: [WhalerDAO Discord](https://discord.gg/CHxxasF)
 >
-> Calendar invite: [Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=Nmh0NWU2OGo3cGM4N3ZjNGFmZjhldnIza3JfMjAyMDA4MjFUMTUwMDAwWiB6ZWZyYW1sb3VAbQ&tmsrc=zeframlou%40gmail.com&scp=ALL)
+> Calendar invite: [Google Calendar](https://calendar.google.com/calendar?cid=ZThxcTU5cnM2Y3QwM2E4bTVzYnBzN2FtZ3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 The first WhalerTalk will happen on August 21, 2020.
 
