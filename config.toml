@@ -83,3 +83,8 @@ disableKinds = ["RSS"]
     name = "Posts"
     url = "post/"
     weight = 20
+
+  [[menu.main]]
+    name = "WhalerTalk"
+    url = "whalertalk"
+    weight = 30
