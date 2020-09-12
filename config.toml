@@ -88,3 +88,8 @@ disableKinds = ["RSS"]
     name = "WhalerTalk"
     url = "whalertalk"
     weight = 30
+  
+  [[menu.main]]
+    name = "Apply for membership"
+    url = "https://forum.whalerdao.org/t/dao-membership-proposals-thread/18"
+    weight = 40
