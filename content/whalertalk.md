@@ -20,3 +20,4 @@ The first WhalerTalk happened on August 21, 2020.
 * [August 28, 2020](https://hackmd.io/@zeframlou/Hk-P0ASmv/edit)
 * [September 4, 2020](https://hackmd.io/@zeframlou/S1LkLIJ4P/edit)
 * [September 11, 2020](https://hackmd.io/@zeframlou/SyWTmLuEP/edit)
+* [September 18, 2020](https://hackmd.io/@zeframlou/Bk6kL1fSP/edit)
