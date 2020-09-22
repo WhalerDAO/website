@@ -1,12 +1,12 @@
 ---
-title: "WhalerTalk -- Weekly Community Calls"
+title: "WhalerTalk -- Monthly Community Calls"
 date: 2020-08-17T18:44:21-07:00
 draft: false
 ---
 
-WhalerTalk is the weekly community call of WhalerDAO, where we discuss anything from building new DeFi protocols to saving the world. It's open to everyone, and that inclues you!
+WhalerTalk is the monthly community call of WhalerDAO, where we discuss anything from building new DeFi protocols to saving the world. It's open to everyone, and that inclues you!
 
-> Time: 8am-9am on Fridays (Pacific Time)
+> Time: 8am-9am the last Friday of every month (Pacific Time)
 >
 > Location: [WhalerDAO Discord](https://discord.gg/CHxxasF)
 >
