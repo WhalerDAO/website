@@ -10,13 +10,13 @@ draft: false
 
 The world is on fire. Climate change, coronavirus, poverty, and authoritarians. Our governments are dragging their feet, and the rich are making barbeque.
 
-Decentralized Finance can save the world.
+**Decentralized Finance can save the world**.
 
 DeFi will eat the world. DeFi has zero operating cost, zero margin, while offering unparalleled investment opportunities in the multi-trillion dollar financial market. DeFi will suck in enormous quantities of capital. DeFi will innovate at the speed of two-pizza startups, building six billion-dollar products before breakfast.
 
-Yield farming DeFi protocols will be the first for-profit entities in history to be capable of true charity. Yield farmers will plug the DeFi Legos together to farm all the governance tokens at once. Protocols will shake hands over an arms race that will never happen, and competition will be replaced by collaboration. Treasuries will be filled to the brim with surplus, surplus that can be used on anything our heart desires.
+Yield farming DeFi protocols will be the first for-profit entities in history to be capable of true charity. Yield farmers will plug the DeFi Legos together to farm all the governance tokens at once. Protocols will shake hands over an arms race that will never happen, and competition will be replaced by collaboration. Treasuries will be filled to the brim with surplus, surplus that can be used on anything our hearts desire.
 
-DeFi is our best hope at generating enough funding for saving the world.
+DeFi is our best hope at generating enough funding to actually save the world.
 
 > O DeFi the plutocracy of whales! O DeFi the congress of frogs!
 >
@@ -48,14 +48,14 @@ Rise, WhalerDAO!
 
 We the Whalers will transform DeFi protocols into benefactors of good.
 
-We will achieve this by accumulating formal and informal power in existing DeFi governance systems, so as to push them towards transitioning into democracies.
+We will achieve this by collaborating with existing DeFi governance systems, formally and informally so as to guide them towards a more democracratic solution.
 
-We will achieve this by convincing DeFi protocols to sign a [Windfall Clause](https://www.fhi.ox.ac.uk/windfallclause/), where protocols commit to donating a portion of their income and tokens to causes of good, once they reach a certain size.
+We will achieve this by sharing our [Windfall Clause](https://www.fhi.ox.ac.uk/windfallclause/) with existing DeFi protocols, showcasing the benefits of committing  a portion of their income and tokens to causes of good, once they reach a certain size.
 
 We will achieve this by educating the masses about the dangers of plutocratic DeFi, as well as the wonderful things that we can accomplish using democratic DeFi.
 
 We will achieve this by building tools we can't even imagine today, tools that will facilitate the creation of a global collaborative network.
 
-We will save the world, or at least try out damned hardest.
+We will save the world, or at least try our darndest! 
 
 [Join us](https://discord.gg/CHxxasF).
