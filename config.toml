@@ -85,6 +85,11 @@ disableKinds = ["RSS"]
     weight = 20
 
   [[menu.main]]
+    name = "Projects"
+    url = "projects/"
+    weight = 25
+
+  [[menu.main]]
     name = "WhalerTalk"
     url = "whalertalk"
     weight = 30
