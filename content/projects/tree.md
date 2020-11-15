@@ -46,6 +46,6 @@ The farming will begin at 12:00pm Pacific Time, November 20, 2020. It will last 
 
 ## How to get updates on TREE 🌳?
 
-Our [website](tree.finance) is where you'll be able to farm and burn TREEs.
+Our [website](https://tree.finance) is where you'll be able to farm and burn TREEs.
 
 You can follow us on [Twitter](https://twitter.com/tree_finance_) and join the conversation on the [WhalerDAO Discord](https://discord.gg/EE6ZveWDfV). A certain cheeky [Villager](https://twitter.com/trees4free) may also pique your interest...
