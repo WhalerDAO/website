@@ -22,7 +22,7 @@ TREE tokens are also used as governance tokens to decide which charities the cha
 
 Every TREE holder is also entitled to a share of the reserve. At any point, holders can burn their TREEs for a cut of the reserve proportional to the *square* of their current share of the total supply. This kind of quadratic burning incentivizes long-term holding and accumulation, because one person burning TREE makes everyone else's TREE worth more.
 
-For example, say Alice and Bob both have 10 tokens, and the total supply is 100. Let's say the reserve has 500 DAI. If Alice burns first, she'll receive 1% of the 500 DAI reserve, which is 5 DAI. Now, if Bob burns next, Bob receives $\frac19^2 = \frac{1}{81} = 1.22\%$ of the remaining 495 DAI reserve, which is 6.05 DAI.
+For example, say Alice and Bob both have 10 tokens, and the total supply is 100. Let's say the reserve has 500 DAI. If Alice burns first, she'll receive 1% of the 500 DAI reserve, which is 5 DAI. Now, if Bob burns next, Bob receives (1/9)^2 = 1/81 = 1.22% of the remaining 495 DAI reserve, which is 6.05 DAI.
 
 In this way, we hope to incentivize long-term participants in our ecosystem and provide an interesting "waiting game" dynamic for holders.
 
