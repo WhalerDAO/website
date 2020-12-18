@@ -101,5 +101,5 @@ disableKinds = ["RSS"]
 
   [[menu.main]]
     name = "DAO"
-    url = "https://idchain.pokemol.com/dao/0x052f73d951b1f579c86ce3cd20a5ddbabd904f68/"
+    url = "https://pokemol.idchain.one/dao/0x052f73d951b1f579c86ce3cd20a5ddbabd904f68"
     weight = 50
